@@ -55,7 +55,7 @@
      <None Include="Assets\3D Game Models\Fan\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Printer\archibase.net.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/TimothyJohn/Documents/College/Acads/11th Term/GAMEDEV/MP/Roll-A-Ball/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/lorddlazaro/GAMEDEV-PlanetGox/Roll-A-Ball/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
