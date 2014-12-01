@@ -53,6 +53,7 @@
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
      <None Include="Assets\3D Game Models\Clock\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Table2\archibase.net.txt" />
+     <None Include="Assets\3D Game Models\Trash Bin\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Bench2\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Fan\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Printer\archibase.net.txt" />
