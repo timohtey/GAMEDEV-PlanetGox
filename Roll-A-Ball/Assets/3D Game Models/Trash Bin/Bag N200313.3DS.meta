@@ -1,8 +1,46 @@
 fileFormatVersion: 2
-guid: a1f9c58a37f479f449389120dae6ccf7
+guid: 754d5809499c21f4d926c887b9c4fa21
 ModelImporter:
   serializedVersion: 16
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: kant
+    100004: kant2
+    100006: kant3
+    100008: karman
+    100010: karman0
+    100012: remen
+    100014: symka0
+    400000: //RootNode
+    400002: kant
+    400004: kant2
+    400006: kant3
+    400008: karman
+    400010: karman0
+    400012: remen
+    400014: symka0
+    2300000: kant
+    2300002: kant2
+    2300004: kant3
+    2300006: karman
+    2300008: karman0
+    2300010: remen
+    2300012: symka0
+    3300000: kant
+    3300002: kant2
+    3300004: kant3
+    3300006: karman
+    3300008: karman0
+    3300010: remen
+    3300012: symka0
+    4300000: kant
+    4300002: kant2
+    4300004: kant3
+    4300006: remen
+    4300008: karman
+    4300010: karman0
+    4300012: symka0
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -22,7 +60,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: .100000001
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
