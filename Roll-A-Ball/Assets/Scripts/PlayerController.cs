@@ -4,15 +4,18 @@ using System.Collections;
 public class PlayerController : MonoBehaviour 
 {
 	private int count;
+	private AudioSource PickUpItem;
 
 	void Start () {
 		count = 0;
+		PickUpItem = this.GetComponent<AudioSource>();
 	}
 
 	void OnTriggerEnter(Collider other) {
-		if (other.gameObject.tag == "PickUp") {
+		if (other.gameObject.tag == "Notebook" || other.gameObject.tag == "Bottle" || other.gameObject.tag == "USB" || other.gameObject.tag == "Umbrella" || other.gameObject.tag == "Bag") {
 			other.gameObject.SetActive(false);
 			count++;
+			PickUpItem.Play();
 		}
 	}                                                     
 
