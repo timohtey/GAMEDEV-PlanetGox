@@ -7,6 +7,8 @@ Project("{BBFD02C8-52B8-DA53-CE25-953B06913EE8}") = "Roll-A-Ball", "Assembly-CSh
 EndProject
 Project("{BBFD02C8-52B8-DA53-CE25-953B06913EE8}") = "Roll-A-Ball", "Assembly-UnityScript-firstpass.unityproj", "{17D05C62-9C37-BE09-C203-A13D6CCC2D83}"
 EndProject
+Project("{BBFD02C8-52B8-DA53-CE25-953B06913EE8}") = "Roll-A-Ball", "Assembly-UnityScript.unityproj", "{27F09002-D498-F87A-CC49-2DFF80EF253C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +27,15 @@ Global
 		{17D05C62-9C37-BE09-C203-A13D6CCC2D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D05C62-9C37-BE09-C203-A13D6CCC2D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D05C62-9C37-BE09-C203-A13D6CCC2D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F09002-D498-F87A-CC49-2DFF80EF253C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F09002-D498-F87A-CC49-2DFF80EF253C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F09002-D498-F87A-CC49-2DFF80EF253C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F09002-D498-F87A-CC49-2DFF80EF253C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																															GlobalSection(MonoDevelopProperties) = preSolution
+																																																																	GlobalSection(MonoDevelopProperties) = preSolution
 =======
 																																																			GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> origin/master
