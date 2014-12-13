@@ -47,12 +47,16 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <None Include="Assets\3D Game Models\House Keys\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Clock\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Table2\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Trash Bin\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Bench2\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Fan\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Printer\archibase.net.txt" />
+     <None Include="Assets\3D Game Models\Notebook\archibase.net.txt" />
+     <None Include="Assets\3D Game Models\Bottle\archibase.net.txt" />
+     <None Include="Assets\3D Game Models\USB\archibase.net.txt" />
      <None Include="Assets\3D Game Models\Trash Bin 1\archibase.net.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
