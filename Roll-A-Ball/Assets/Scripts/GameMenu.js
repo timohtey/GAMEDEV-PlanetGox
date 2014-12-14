@@ -1,5 +1,6 @@
 ﻿var isStartGame=false;
 var isInstructions=false;
+var isBack=false;
 
 function OnMouseEnter(){
 	
@@ -15,8 +16,13 @@ function OnMouseUp(){
 		Application.LoadLevel(1);
 	}
 	else if (isInstructions==true) {
+		GameObject.Find("Instructions").animation.PlayQueued("InstructionsSlideUp");
+		GameObject.Find("Instructions").animation.PlayQueued("InstructionsHover");
+		
+	}
+	else if (isBack==true) {
+		GameObject.Find("Instructions").animation.Play("InstructionsSlideDown");
 	
-		Application.Quit();
 	}
 }
 
