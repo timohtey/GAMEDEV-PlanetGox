@@ -756,7 +756,6 @@ GameObject:
   - 23: {fileID: 884910217}
   - 95: {fileID: 884910216}
   - 114: {fileID: 884910215}
-  - 111: {fileID: 884910221}
   m_Layer: 0
   m_Name: StartGameButton
   m_TagString: Untagged
@@ -849,21 +848,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
---- !u!111 &884910221
-Animation:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 884910214}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: 69378a65fb4c1174aa1c4da95a1d9b2b, type: 2}
-  m_Animations:
-  - {fileID: 7400000, guid: 69378a65fb4c1174aa1c4da95a1d9b2b, type: 2}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!1 &924976387
 GameObject:
   m_ObjectHideFlags: 0
