@@ -2,7 +2,7 @@
 var isInstructions=false;
 
 function OnMouseEnter(){
-	renderer.transform.localScale += 3;
+	
 }
 
 function OnMouseExit(){
